@@ -1,5 +1,5 @@
 dev::{
-    "WEBSITE_URL": "https://talknician-new.vercel.app",
+    "WEBSITE_URL": "https://dev.talknician.com",
     "API_URL": "https://devapi.talknician.com/"
 }
 prod::{
